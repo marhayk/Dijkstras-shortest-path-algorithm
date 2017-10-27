@@ -1,0 +1,4 @@
+﻿  Dijkstra's algorithm.cpp
+c:\users\student\desktop\dijkstra's algorithm\dijkstra's algorithm\network.h(104): warning C4018: '<': signed/unsigned mismatch
+  Dijkstra's algorithm.vcxproj -> C:\Users\Student\Desktop\Dijkstra's algorithm\Debug\Dijkstra's algorithm.exe
+  Dijkstra's algorithm.vcxproj -> C:\Users\Student\Desktop\Dijkstra's algorithm\Debug\Dijkstra's algorithm.pdb (Full PDB)
